@@ -1,0 +1,3 @@
+import qrcode as qr
+img=qr.make("enter website")
+img.save("name of qr.jpg/png")
